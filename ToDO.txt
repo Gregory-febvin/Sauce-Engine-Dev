@@ -1,0 +1,10 @@
+Modifier interface d'extraction
+Refactoriser code d'extraction (Changement de language ?)
+
+Ajoute interface de menu principale
+Ajoute interface de lecture
+
+Ajoute mode hors-ligne
+Ajoute compte utilisateur
+
+Ajouter des sauces au site automatiquement 
